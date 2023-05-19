@@ -9,7 +9,7 @@ void main() {
   print(VariableAge);
 
   bool LifeVariable = true;
-  print(LifeVariable);
+  print(LifeVariable); 
 
   double VariableMoney = 10.5;
   print(VariableMoney);

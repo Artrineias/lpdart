@@ -16,4 +16,4 @@ class Usuario {
   String getAll() {
     return "Login: $login, password: $password, email: $email";
   }
-}
+} 

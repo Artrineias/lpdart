@@ -1,7 +1,7 @@
 void main() {
   // 3 - If and SWITCH
   int VariableAge = 17;
-  
+
   if (true) {
     print("Esta vivo");
   }
@@ -9,7 +9,7 @@ void main() {
   switch (VariableAge) {
     case 18:
       print("pode ir pra cadeia...");
-      break;
+      break; 
     default:
       print("To safe demais");
   }
